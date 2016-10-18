@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+    body {background-color: powderblue;}       
+
+h4 {
+    border: 3px solid green;
+    padding: 20px;
+    }
+    
+
+p  {
+    font-family: courier;
+    font-size: 100%;
+}
+ 
+a  {
+    font-family: verdana;
+    font-size: 150%;
+}
+   div span{
+    background-color:yellow;
+}
+
+div>span{
+    background-color:tomato;
+}
