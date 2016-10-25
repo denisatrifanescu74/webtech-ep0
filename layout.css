@@ -1,0 +1,31 @@
+div{border:1px solid red;}
+container{
+    width:800px;
+    height:600px;
+    margin:0px auto;
+}
+body{padding:0;
+     margin:0;
+}
+header{
+    margin-top:198px;
+}
+meniu{
+   margin-top:48px;
+}
+main{
+   margin-top: 248px;
+}
+sidebar{
+    margin-left:298px;
+    float:left;
+}
+content{
+   margin-right: 498px;
+    float:right;
+}
+footer{
+   margin-bottom:98px;
+   display:block;
+   clear:both;
+}
